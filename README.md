@@ -1,2 +1,4 @@
-# neural-latency-prediction
-Machine learning system to predict neural latency for prosthetic control using signal features. 
+# Neural Latency Prediction System
+
+This project predicts neural response latency for prosthetic control using machine learning.
+
