@@ -1,10 +1,10 @@
 # Neural Latency Prediction System
 
-Neural Latency Prediction System for Prosthetic Control
+## Neural Latency Prediction System for Prosthetic Control
 
 This project predicts neural response latency using machine learning to optimize prosthetic control systems. The system analyzes neural signal features and provides real-time latency prediction through an interactive web application.
 
-Features
+## Features
 
 Exploratory data analysis of neural signal data
 
@@ -14,7 +14,7 @@ Feature importance analysis
 
 Interactive web application deployment
 
-Technologies Used
+## Technologies Used
 
 Python
 
@@ -28,6 +28,6 @@ Scikit-learn
 
 Data Visualization
 
-Live Demo
+## Live Demo
 
-(Paste your Streamlit link here)
+[link](https://neural-latency-prediction-32ohzbmdx6nvqda3tzmgg4.streamlit.app/)
